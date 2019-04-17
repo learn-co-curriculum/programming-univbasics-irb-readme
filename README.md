@@ -18,20 +18,20 @@ computer and start talking to it.
 ![Engineer Montgomery Scott Attempts Communication with a 20th Century
 Computer](https://media.giphy.com/media/3o7btVRbshbbaC8Ygg/source.gif)
 
-Instead, we run a program that's a "conversation room." In it we send _expressions_ for
+Instead, we run a program that's a "conversation room." In it, we send _expressions_ for
 Ruby to _evaluate_. After Ruby evaluates the _expression_, it will send back
 _return values_, or responses.
 
 ## Define IRB
 
-IRB stands for "Interactive Ruby." It's a like a room especially built for
+IRB stands for "Interactive Ruby." It's like a room especially built for
 having conversations with Ruby. We can think of it as your Ruby playground.
 IRB is run from within your computer's terminal by typing `irb`. Once IRB is
-running, we key in Ruby _expressions_ and hit ENTER. Afterward we'll see Ruby's
+running, we key in Ruby _expressions_ and hit ENTER. Afterward, we'll see Ruby's
 evaluation of the _expression_ (the _return value_).
 
 Programs like IRB are known as "REPLs." "REPL" stands for _Read–Evaluate–Print
-Loop_. Many languages feature REPLs: Python, Ruby, Lisp and others. We'll talk
+Loop_. Many languages feature REPLs: Python, Ruby, Lisp, and others. We'll talk
 more about REPLs in the next section.
 
 > **IMPORTANT**: IRB is _not_ a file where you save your work. Any coding you
@@ -49,7 +49,7 @@ You:
 
 1. "read" in the other person's expression ("I'm curious about learning programming!")
 2. "evaluate" what the expression means ("My friend is bored at their job? My friend wants to make more money?)
-3. "print" your reponse ("Oh great!" "I love programming, you're going to love it too!").
+3. "print" your response ("Oh great!" "I love programming, you're going to love it too!").
 
 IRB, as a REPL, gives you a place where:
 
