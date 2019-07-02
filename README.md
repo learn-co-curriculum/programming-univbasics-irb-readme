@@ -53,9 +53,9 @@ You:
 
 IRB, as a REPL, gives you a place where:
 
-1. _You_ type in a Ruby expression (which IRB "reads")
+1. _You_ type in a Ruby expression (which IRB "reads" as **_input_**)
 2. _IRB_ "evaluates" the expression based on the rules of Ruby
-3. _IRB_ "prints" a response or a _return value_
+3. _IRB_ "prints" a response or a _return value_ as **_output_**
 
 ## Explain why REPLs are useful
 
